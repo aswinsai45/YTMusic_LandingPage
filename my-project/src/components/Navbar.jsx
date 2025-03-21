@@ -12,7 +12,8 @@ function Navbar() {
           <div className="justify-center flex-1 px-4 box-border border-4 p-5 max-w-[500px] rounded-[17px]">
             Search songs, albums, artists and podcast
           </div>
-
+          <p>Home</p>
+          <p>Library</p>
           <p>Cast</p>
           <p>Profile</p>
         </div>
